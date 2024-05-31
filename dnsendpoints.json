@@ -1,0 +1,42 @@
+[
+  {
+    "host": "github.com",
+    "port": 443
+  },
+  {
+    "host": "user-images.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "raw.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "curbengh.github.io",
+    "port": 443
+  },
+  {
+    "host": "avatars.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "cdnjs.cloudflare.com",
+    "port": 443
+  },
+  {
+    "host": "cloud.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "camo.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "github.githubassets.com",
+    "port": 443
+  },
+  {
+    "host": "ublockorigin.github.io",
+    "port": 443
+  }
+]

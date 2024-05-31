@@ -1,0 +1,16 @@
+2024-05-31T09:02:23.2382149+08:00 [INF]
+FastGithub.HttpServer.CaCertInstallerOfLinuxRedHat
+已自动向系统安装CA证书cacert/fastgithub.crt
+
+2024-05-31T09:02:23.5324702+08:00 [INF]
+FastGithub.HttpServer
+已监听http://localhost:38457，http代理服务启动完成
+
+2024-05-31T09:02:23.7583093+08:00 [INF]
+FastGithub.AppHostedService
+FastGithub启动完成，当前版本为v2.1.4，访问 https://github.com/dotnetcore/fastgithub 关注新版本
+
+2024-05-31T09:02:24.7903324+08:00 [WRN]
+FastGithub.AppHostedService
+请设置系统自动代理为http://127.0.0.1:38457，或手动代理http/https为127.0.0.1:38457
+
